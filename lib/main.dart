@@ -110,7 +110,7 @@ class _FanPageState extends State<FanPage> {
           SizedBox(height: 100.0),
           FlatButton(
               child: Text(
-            'This particular fan app is made solely for the purpose of '
+            'This particular fan app '
             'personal study.',
             style: TextStyle(
                 fontSize: 10.0,
